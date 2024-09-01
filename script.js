@@ -12,7 +12,7 @@ search.addEventListener('click',() =>{
 	// you can find in their website by searching 
 	// weather API.
 
-	const APIKey = '';
+	const APIKey = '678b991f0c4f949016493a01bd20748d';
 	const city = document.getElementById('search-btn').value;
 	if(city==''){
 		return ;
